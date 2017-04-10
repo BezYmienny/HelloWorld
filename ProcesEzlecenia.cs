@@ -18,7 +18,7 @@ namespace SystemZlecen
 
             public void Run()
                 {
-                    // Utworzenie pracowników !
+                    // Utworzenie pracowników - symulacja modelu przepływu !
                     Employee kierownikZmiany=new Employee("Kier Zmian");
                     Employee koordynatorUrMnt=new Employee("Koor Ur Mnt");
                     Employee serwisantUrMnt=new Employee("Srerwisant Ur Mnt");
